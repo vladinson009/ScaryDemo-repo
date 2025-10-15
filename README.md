@@ -13,3 +13,7 @@ QA => Mariya
           }
 
     }
+
+- main branch => https://scary-devops.onrender.com
+- staging branch => https://scary-devops-staging.onrender.com
+- qa branch => ??
